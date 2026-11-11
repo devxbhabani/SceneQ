@@ -1,10 +1,10 @@
-# 🎬 SceneQ
+# SceneQ
 
 > Your all-in-one entertainment companion to discover, book, and experience the best movies, concerts, comedy shows, and live events in your city — without ever waiting in line.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SceneQ/
@@ -14,25 +14,27 @@ SceneQ/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend (`/SceneQ`)
-| Technology | Version |
-|---|---|
-| React | ^19 |
-| Vite | ^8 |
-| Tailwind CSS | ^4 |
-| ESLint | ^10 |
+
+| Technology   | Version |
+| ------------ | ------- |
+| React        | ^19     |
+| Vite         | ^8      |
+| Tailwind CSS | ^4      |
+| ESLint       | ^10     |
 
 ### Backend (`/backend`)
+
 | Technology | Version |
-|---|---|
-| Bun | latest |
-| TypeScript | ^7 |
+| ---------- | ------- |
+| Bun        | latest  |
+| TypeScript | ^7      |
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Frontend
 
@@ -54,19 +56,21 @@ bun run index.ts
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 ### Frontend
-| Command | Description |
-|---|---|
-| `bun dev` | Start dev server |
-| `bun build` | Build for production |
+
+| Command       | Description              |
+| ------------- | ------------------------ |
+| `bun dev`     | Start dev server         |
+| `bun build`   | Build for production     |
 | `bun preview` | Preview production build |
-| `bun lint` | Run ESLint |
+| `bun lint`    | Run ESLint               |
 
 ### Backend
-| Command | Description |
-|---|---|
+
+| Command            | Description              |
+| ------------------ | ------------------------ |
 | `bun run index.ts` | Start the backend server |
 
 ---
