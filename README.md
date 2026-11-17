@@ -77,4 +77,6 @@ bun run index.ts
 
 ## 🌐 Links
 
-- 🔗 GitHub: [devxbhabani/SceneQ](https://github.com/devxbhabani/SceneQ)
+- GitHub: [devxbhabani/SceneQ](https://github.com/devxbhabani/SceneQ)
+
+made with love
